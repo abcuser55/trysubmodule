@@ -1,6 +1,6 @@
 [submodule "app/src/testsub/githiya"]
 	path = app/src/testsub/githiya
-	url = ../../chriskohlhoff/asio/
+	url = ../../schwabe/platform_external_openssl.git
 ; [submodule "main/openssl"]
 ; 	path = main/src/main/cpp/openssl
 ; 	url = ../../schwabe/platform_external_openssl.git
