@@ -1,6 +1,6 @@
-[submodule "app/src/testsub/githiya"]
+[submodule "main/openvpn"]
 	path = app/src/testsub/githiya
-	url = ../../schwabe/platform_external_openssl.git
+	url = https://github.com/chriskohlhoff/asio
 ; [submodule "main/openssl"]
 ; 	path = main/src/main/cpp/openssl
 ; 	url = ../../schwabe/platform_external_openssl.git
