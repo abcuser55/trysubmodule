@@ -1,3 +1,6 @@
 [submodule "asio"]
 	path = asio
 	url = ../../chriskohlhoff/asio/
+[submodule "subModuleHms"]
+	path = subModuleHms
+	url = https://github.com/PokeCoreApp/subModuleHms
